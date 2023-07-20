@@ -1,4 +1,5 @@
 PREDEF:
+  - correct.re
   - README.re
 CHAPS:
 APPENDIX:
