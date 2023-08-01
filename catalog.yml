@@ -2,6 +2,7 @@ PREDEF:
   - correct.re
   - README.re
 CHAPS:
+  - requirements.re
 APPENDIX:
 
 POSTDEF:
