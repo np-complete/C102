@@ -3,6 +3,7 @@ PREDEF:
   - README.re
 CHAPS:
   - requirements.re
+  - rent.re
 APPENDIX:
 
 POSTDEF:
