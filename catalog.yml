@@ -4,6 +4,7 @@ PREDEF:
 CHAPS:
   - requirements.re
   - rent.re
+  - baby.re
 APPENDIX:
 
 POSTDEF:
