@@ -24,6 +24,7 @@ GEM
       pastel (~> 0.8)
 
 PLATFORMS
+  ruby
   x86_64-linux
 
 DEPENDENCIES
@@ -32,4 +33,4 @@ DEPENDENCIES
   review
 
 BUNDLED WITH
-   2.4.10
+   2.5.11
